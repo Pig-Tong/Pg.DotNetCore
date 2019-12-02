@@ -13,14 +13,14 @@ namespace Pg.DotNetCore.WebMvc.Controllers
 {
     public class HomeController : Controller
     {
-        // private IServiceProvider _provider;
+        private IServiceProvider _provider;
 
         private ICount _count;
 
-        public HomeController(ICount count)
+        public HomeController(ICount count, IServiceProvider provider)
         {
             this._count = count;
-            // this._provider = provider;
+            this._provider = provider;
         }
 
         // private readonly ILogger<HomeController> _logger;
@@ -34,13 +34,13 @@ namespace Pg.DotNetCore.WebMvc.Controllers
 
         public IActionResult Index()
         {
-            // ICount count1 = _provider.GetService<ICount>();
-            // ICount count2 = _provider.GetService<ICount>(); 
-            // int c1 = count1.MyCount(); 
-            // int c2 = count2.MyCount();
+            ICount count1 = _provider.GetService<ICount>();
+            ICount count2 = _provider.GetService<ICount>();
+            int c1 = count1.MyCount();
+            int c2 = count2.MyCount();
 
-            // ViewBag.c1=c1;
-            // ViewBag.c2=c2;
+            ViewBag.c1 = c1;
+            ViewBag.c2 = c2;
             return View();
         }
 
