@@ -1,0 +1,8 @@
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\bin\Debug\netstandard2.0\Pg.DotNetCore.Common.deps.json
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\bin\Debug\netstandard2.0\Pg.DotNetCore.Common.dll
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\bin\Debug\netstandard2.0\Pg.DotNetCore.Common.pdb
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\obj\Debug\netstandard2.0\Pg.DotNetCore.Common.csprojAssemblyReference.cache
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\obj\Debug\netstandard2.0\Pg.DotNetCore.Common.AssemblyInfoInputs.cache
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\obj\Debug\netstandard2.0\Pg.DotNetCore.Common.AssemblyInfo.cs
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\obj\Debug\netstandard2.0\Pg.DotNetCore.Common.dll
+C:\Users\zhut\Desktop\DotNetCoreSample\Pg.DotNetCore\Pg.DotNetCore.Common\obj\Debug\netstandard2.0\Pg.DotNetCore.Common.pdb
